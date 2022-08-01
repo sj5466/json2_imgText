@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "imgTextInfor":[
+      {
+        "id":"0",
+        "title":"할인 혜택",
+        "text":"이달의 할인 혜택",
+        "desc1":"뚜레쥬르만의 다양한 할인 혜택을 받아 보세요.",
+        "desc2":"세포들아 여름을 부탁해! 올 여름은 크림 도넛으로!",
+        "desc3":"요기요로 주문하면 뚜레쥬르 4천원할인",
+        "desc4":"지금 배달의 민족을 주문하면 4천원 할인"
+    }
+    ]
+  }
+}
